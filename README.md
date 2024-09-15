@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hwahyeon's Github 👋
 
 <!--
 **koh0074/koh0074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
